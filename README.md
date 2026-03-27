@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pulse-portrait.png" width="280" alt="pulse ai"/>
+<img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/pulse.svg" alt="pulse" width="200">
 
 # pulse
 
